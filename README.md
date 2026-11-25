@@ -1,16 +1,17 @@
-## Hi there 👋
+# Wesley Wilkes
 
-<!--
-**wpwilkes/wpwilkes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD student in Computational Analysis and Modeling
+at Louisiana Tech University.
 
-Here are some ideas to get you started:
+My interests lie at the intersection of mathematics,
+computer science, and software engineering, with an
+emphasis on mathematical modeling and computation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+- Applied and computational mathematics
+
+## Links
+
+[LinkedIn](https://www.linkedin.com/in/wesley-wilkes/) ·
+[Louisiana Tech University](https://www.latech.edu/)
